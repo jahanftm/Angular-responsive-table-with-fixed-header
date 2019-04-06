@@ -1,0 +1,49 @@
+.container{
+  max-width: 1210px;
+  margin: 50px auto;
+  header{
+    text-align: center;
+    margin: 30px 0;
+  }
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+  border: 1px solid #e9edf1;
+  border-top: none;
+}
+
+thead {
+  background-color: #EFEFEF;
+}
+
+thead,
+tbody {
+  display: block;
+  border: 1px solid #e9edf1;
+}
+
+tbody {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 200px;
+}
+
+td,
+th {
+  //padding: 10px 0;
+  min-width: 110px;
+  height: 25px;
+  //overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 110px;
+  border: 1px solid #e6e6e6;
+}
+
+tr {
+  display: inline-table;
+  width: 100%;
+}
+

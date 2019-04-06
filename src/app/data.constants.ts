@@ -1,0 +1,80 @@
+export const data = [
+  {
+    id: 1,
+    firstName: 'fatemeh',
+    lastName: 'jahangiri',
+    gender: 'Female',
+    birthDate: '1989/1/4',
+    fatherName: 'ali',
+    nationalId: '122334429',
+    traderId: '51780',
+    city: 'tehran',
+    postalCode: '35467',
+    address: 'tehran-narmak'
+  },
+  {
+    id: 1,
+    firstName: 'fatemeh',
+    lastName: 'jahangiri',
+    gender: 'Female',
+    birthDate: '1989/1/4',
+    fatherName: 'ali',
+    nationalId: '122334429',
+    traderId: '51780',
+    city: 'tehran',
+    postalCode: '35467',
+    address: 'tehran-narmak'
+  },
+  {
+    id: 1,
+    firstName: 'fatemeh',
+    lastName: 'jahangiri',
+    gender: 'Female',
+    birthDate: '1989/1/4',
+    fatherName: 'ali',
+    nationalId: '122334429',
+    traderId: '51780',
+    city: 'tehran',
+    postalCode: '35467',
+    address: 'tehran-narmak'
+  },
+  {
+    id: 1,
+    firstName: 'fatemeh',
+    lastName: 'jahangiri',
+    gender: 'Female',
+    birthDate: '1989/1/4',
+    fatherName: 'ali',
+    nationalId: '122334429',
+    traderId: '51780',
+    city: 'tehran',
+    postalCode: '35467',
+    address: 'tehran-narmak'
+  },
+  {
+    id: 1,
+    firstName: 'fatemeh',
+    lastName: 'jahangiri',
+    gender: 'Female',
+    birthDate: '1989/1/4',
+    fatherName: 'ali',
+    nationalId: '122334429',
+    traderId: '51780',
+    city: 'tehran',
+    postalCode: '35467',
+    address: 'tehran-narmak'
+  },
+  {
+    id: 1,
+    firstName: 'fatemeh',
+    lastName: 'jahangiri',
+    gender: 'Female',
+    birthDate: '1989/1/4',
+    fatherName: 'ali',
+    nationalId: '122334429',
+    traderId: '51780',
+    city: 'tehran',
+    postalCode: '35467',
+    address: 'tehran-narmak'
+  }
+];
