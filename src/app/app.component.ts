@@ -8,7 +8,7 @@ import {data} from './data.constants';
 })
 export class AppComponent implements OnInit {
   data = data;
-  widthOfTable: any = '1210' + 'px';
+  widthOfTable: any;
   @ViewChild('responseTable') responseWidthOfTable: ElementRef;
 
   constructor() {
